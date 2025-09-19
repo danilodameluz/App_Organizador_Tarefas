@@ -1,0 +1,52 @@
+[
+  {
+    "descricao": "Fazer compras no supermercado",
+    "status": "a fazer",
+    "data": "02/08/2025"
+  },
+  {
+    "descricao": "Levar o carro para revisão",
+    "status": "realizando",
+    "data": "04/08/2025"
+  },
+  {
+    "descricao": "Pagar a conta de energia",
+    "status": "concluído",
+    "data": "06/08/2025"
+  },
+  {
+    "descricao": "Estudar Python por 2 horas",
+    "status": "a fazer",
+    "data": "08/08/2025"
+  },
+  {
+    "descricao": "Ir à academia",
+    "status": "concluído",
+    "data": "10/08/2025"
+  },
+  {
+    "descricao": "Visitar um amigo",
+    "status": "a fazer",
+    "data": "13/08/2025"
+  },
+  {
+    "descricao": "Organizar documentos pessoais",
+    "status": "realizando",
+    "data": "17/08/2025"
+  },
+  {
+    "descricao": "Levar o cachorro para vacinar",
+    "status": "concluído",
+    "data": "20/08/2025"
+  },
+  {
+    "descricao": "Assistir a um filme",
+    "status": "a fazer",
+    "data": "25/08/2025"
+  },
+  {
+    "descricao": "Limpar a casa",
+    "status": "realizando",
+    "data": "28/08/2025"
+  }
+]
